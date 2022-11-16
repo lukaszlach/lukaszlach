@@ -7,4 +7,4 @@ Conference Speaker
 University Lecturer
 ```
 
-https://lach.dev | https://www.linkedin.com/in/lukaszlach/
+https://lach.dev
