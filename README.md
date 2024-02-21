@@ -2,7 +2,7 @@
 
 ```
 💙 Jedi Master at Jedi High Council
-🖤 Sith Apprentice (part-time)\
+🖤 Sith Apprentice (part-time)
 
 🐋 Docker Captain
 🐋 Docker Community Leader
