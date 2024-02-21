@@ -3,7 +3,8 @@
 ```
 Docker Captain
 Docker Community Leader
-Senior Software Architect at CD Projekt #Cyberpunk2077 #GWENT #Witcher #GOGcom
+Senior Software Architect at Cyberpunk 2077, GWENT, The Witcher
+Minecraft Engineer
 
 Conference Speaker
 University Lecturer
