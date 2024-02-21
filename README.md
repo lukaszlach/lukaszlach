@@ -1,7 +1,7 @@
 ### Łukasz [Lach.dev](https://lach.dev)
 
 ```
-💚 Jedi Master at Jedi High Council
+💙 Jedi Master at Jedi High Council
 🖤 Sith Apprentice (part-time)
 🐋 Docker Captain
 🐋 Docker Community Leader
